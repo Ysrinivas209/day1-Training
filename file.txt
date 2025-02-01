@@ -1,0 +1,4 @@
+Id:1
+Nmae:Dell
+Description:s234w
+Type:ESWAQW@#S
